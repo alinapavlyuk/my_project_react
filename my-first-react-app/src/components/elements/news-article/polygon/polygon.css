@@ -1,0 +1,9 @@
+.polygon {
+  width: 40px;
+}
+
+.polygon-down {
+  transform: rotate(180deg);
+}
+
+/*# sourceMappingURL=polygon.css.map */

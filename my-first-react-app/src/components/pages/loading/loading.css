@@ -1,0 +1,22 @@
+.loading {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.loading a {
+  text-decoration: none;
+}
+
+.click-p {
+  font-size: 25px;
+  margin: 0;
+}
+
+.loading-logo {
+  margin: 0 auto;
+  width: 60px;
+}
+
+/*# sourceMappingURL=loading.css.map */

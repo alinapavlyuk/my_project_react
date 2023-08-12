@@ -1,0 +1,18 @@
+.socials-list {
+  margin-bottom: 30px;
+}
+
+.social-logo-container {
+  width: 50px;
+  display: inline-grid;
+}
+
+.social-logo {
+  padding: 5px;
+  width: 50px;
+  transition: all 0.5s ease-in-out;
+}
+
+.social-logo:hover {
+  width: 47px;
+}

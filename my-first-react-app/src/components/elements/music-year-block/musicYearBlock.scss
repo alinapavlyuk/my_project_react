@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Onyx";
+  src: url(../../../fonts/NIRVANA.TTF) format("truetype");
+}
+
+.music-year-block{
+  margin-bottom: 70px;
+}
+
+.albums-year{
+  color:white;
+  text-align: center;
+  font-family: Onyx, serif;
+  font-size: 35px;
+}
+
+.albums-rows{
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 40px;
+}
+
+.album-cover-container{
+  flex: 0 0 auto;
+  width: 25%;
+  height: 175px;
+  text-align: center;
+}
+
+.album-cover {
+  height: 170px;
+  transition: all 0.5s ease-in-out;
+}
+
+.album-cover:hover {
+  cursor: pointer;
+  height: 175px;
+}

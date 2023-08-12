@@ -1,0 +1,38 @@
+{
+  "news_articles": [
+    {
+      "id": "0.2",
+      "author": "redrumer",
+      "date": {
+        "time": "15:03",
+        "dayOfMonth": "26",
+        "month": "Apr",
+        "dayOfWeek": "Tue",
+        "year": "2022"
+      },
+      "subject": "",
+      "content": "Good Afternoon Errbody, I wanted to announce that me & RED Alliance are currently working on 4 albums sumultaneously. HEROINE ADDICTED PERSON is on of them. All details are coming later.\n",
+      "sentBy": {
+        "name": "Tony",
+        "time": "15:16"
+      }
+    },
+    {
+      "id": "0.1",
+      "author": "redrumer",
+      "date": {
+        "time": "20:59",
+        "dayOfMonth": "22",
+        "month": "Apr",
+        "dayOfWeek": "Fri",
+        "year": "2022"
+      },
+      "subject": "",
+      "content": "Hi. I’m glad to inform you that we are laucnhing our RED Alliance website. All factual and reliable information will come from this source only. Be up-to-date by subsribing to our mailing list on a contact page. Thanks for your attention.",
+      "sentBy": {
+        "name": "Tony",
+        "time": "21:07"
+      }
+    }
+  ]
+}

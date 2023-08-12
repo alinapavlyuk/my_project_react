@@ -1,0 +1,59 @@
+{
+  "emails": [
+    "OPIUMVISIONLLC@GMAIL.COM",
+    "REDRUMERBEATS@GMAIL.COM",
+    "TPAYPBUSINESS@GMAIL.COM"
+  ],
+  "socials": [
+    {
+      "name": "youtube",
+      "image": "youtube_logo.svg",
+      "link": "https://www.youtube.com/channel/UCB4w6SReKBJJiPpyjy9RM9A"
+    },
+    {
+      "name": "instagram",
+      "image": "instagram_logo.svg",
+      "link": "https://www.instagram.com/redrumer1/"
+    },
+    {
+      "name": "twitter",
+      "image": "twitter_logo.svg",
+      "link": "https://twitter.com/okayletsgoi"
+    },
+    {
+      "name": "soundcloud",
+      "image": "soundcloud_logo.svg",
+      "link": "https://soundcloud.com/redrumermusic"
+    }
+  ],
+  "partners": [
+    {
+      "name": "hap",
+      "image": "hap_logo.png"
+    },
+    {
+      "name": "trayp",
+      "image": "tpayp_logo.png"
+    },
+    {
+      "name": "red4l",
+      "image": "red4l_logo.png"
+    },
+    {
+      "name": "chase",
+      "image": "chase_logo.png"
+    },
+    {
+      "name": "opium",
+      "image": "opium_logo.png"
+    },
+    {
+      "name": "cringe party",
+      "image": "cringeparty_logo.png"
+    },
+    {
+      "name": "cure",
+      "image": "cure_logo.png"
+    }
+  ]
+}

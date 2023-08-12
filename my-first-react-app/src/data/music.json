@@ -1,0 +1,84 @@
+{
+  "music_albums": [
+    {
+      "year": "2021",
+      "albums": [
+        {
+          "name": "71: Re’Lux",
+          "image": "relux.svg"
+        },
+        {
+          "name": "That’s All Right",
+          "image": "thats_all_right.svg"
+        },
+        {
+          "name": "Opium 71",
+          "image": "opium.svg"
+        },
+        {
+          "name": "Move",
+          "image": "move.svg"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "albums": [
+        {
+          "name": "Citrea",
+          "image": "citrea.svg"
+        },
+        {
+          "name": "Redrum Season",
+          "image": "redrum_season.svg"
+        },
+        {
+          "name": "Заводной Апельсин",
+          "image": "zavodnoi.svg"
+        },
+        {
+          "name": "Зеркала",
+          "image": "zerkala.svg"
+        },
+        {
+          "name": "I AM",
+          "image": "i_am.svg"
+        },
+        {
+          "name": "Один",
+          "image": "odin.svg"
+        },
+        {
+          "name": "Экстрим",
+          "image": "extrim.svg"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "albums": [
+        {
+          "name": "Экзорцист",
+          "image": "ekzorcist.svg"
+        },
+        {
+          "name": "Flame",
+          "image": "flame.svg"
+        },
+        {
+          "name": "Whisper",
+          "image": "whisper.svg"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "albums": [
+        {
+          "name": "Memento Mori",
+          "image": "memento_mori.svg"
+        }
+      ]
+    }
+  ]
+}
